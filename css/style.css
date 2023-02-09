@@ -29,7 +29,7 @@ section{
     display: flex;
     justify-content: space-between;
     margin: 5px;
-    border: red 1px solid;
+    border: white 1px solid;
     margin-right: 30px;
 
 }
@@ -48,25 +48,30 @@ section div{
     flex-direction: row;
     justify-content: space-between;
     padding: 100px;
-    border: blue 5px solid;
+    border: black 5px solid;
+    background-image: url("https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8dGVjaHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60");
 }
+ 
 
 .card2{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     padding: 25px;
-    border: blue 5px solid;
+    border: black 5px solid;
+    background-image: url("https://images.unsplash.com/photo-1517433456452-f9633a875f6f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fHRlY2hub2xvZ3l8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60");
 }
 
 section div div div{
-    border: lightblue 10px solid;
-    background-color: lightblue;
+    border: white 10px solid;
+    background-color: white;
+    padding: 0px;
+    
     
 }
 
-.card3 {
-    justify-content: space-around;
+.card {
+
 }
 
 .card3 ul {
@@ -76,4 +81,8 @@ section div div div{
 
 .card3 ul li {
     list-style: none;
+}
+
+section div div:hover {
+    background-color: lightblue;
 }
