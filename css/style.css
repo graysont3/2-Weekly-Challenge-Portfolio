@@ -83,6 +83,6 @@ section div div div{
     list-style: none;
 }
 
-section div div:hover {
+section div div div:hover {
     background-color: lightblue;
 }
