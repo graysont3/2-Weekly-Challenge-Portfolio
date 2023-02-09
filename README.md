@@ -19,3 +19,7 @@ This is what the portfolio looks like: ![Portfolio webpage with navigation bar, 
 Daniel Josef for the keyboard image  used for Project 2 & 3 sections.
 Luca Bravo for the code image used for the Project 1 secttion.
 Clipart Library for the background image under the header.
+
+## License
+
+Please refer to the license in Github
